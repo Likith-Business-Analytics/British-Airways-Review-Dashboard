@@ -30,7 +30,20 @@ The dashboard helps identify:
 - **Bar Charts:** Ratings by Aircraft & Total Number of Reviews  
 - **Dynamic Filters** for slicing insights quickly  
 
----
+## KPIs
+
+The dashboard highlights the following KPIs derived from customer review data:
+
+- **Average Overall Rating** – Measures the general satisfaction level of passengers.
+- **Average Cabin Staff Service Rating** – Evaluates courtesy, responsiveness, and professionalism of crew members.
+- **Average Entertainment Rating** – Assesses in-flight entertainment quality, content variety, and availability.
+- **Average Food & Beverages Rating** – Captures passenger satisfaction with meals, snacks, and drinks offered onboard.
+- **Average Ground Service Rating** – Reflects airport service quality including check-in, boarding, and baggage handling.
+- **Average Seat Comfort Rating** – Measures comfort factors such as legroom, seat design, and overall seating experience.
+- **Average Value for Money Rating** – Indicates whether passengers feel the service quality justifies the ticket price.
+- **Number of Reviews** – Total volume of customer responses used to support the analysis.
+
+These KPIs provide a high-level overview of British Airways' performance across essential service dimensions, enabling quick assessment and comparison across aircraft models, countries, seat types, and travel categories.
 
 ## Dataset & Technology Used
 ### Dataset
@@ -44,8 +57,8 @@ The dashboard helps identify:
 2. <a href = "https://github.com/Likith-Business-Analytics/British-Airways-Review-Dashboard/blob/main/Countries.csv"> Countries <a/> – Used for mapping country names to geographical coordinates for visualization.
 
 ### Technology Used
-**Tableau Desktop** – Dashboard creation and visual analytics
-**Excel** – Data storage and preprocessing
+- **Tableau Desktop** – Dashboard creation and visual analytics
+- **Excel** – Data storage and preprocessing
 
 ## Dashboard
 <img width="1882" height="881" alt="image" src="https://github.com/user-attachments/assets/648987df-9925-4de2-b0bc-c3e4c014113a" />
