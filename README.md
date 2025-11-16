@@ -15,7 +15,7 @@ The dashboard helps identify:
 ---
 
 ## Features  
-### ** Interactive Filters**
+### Interactive Filters
 - Pick a Metric (Overall Rating, Cabin Staff Service, Entertainment, etc.)
 - Seat Type (Economy, Business, First Class)
 - Travel Type (Solo, Business, Family, Couple Leisure)
@@ -23,7 +23,7 @@ The dashboard helps identify:
 - Continent  
 - Date Range
 
-### ** Visualizations Included**
+### Visualizations Included
 - **KPI Cards:** Avg. Rating across 7 major service categories  
 - **Line Chart:** Average Overall Rating by Month (2016–2024)  
 - **Map:** Country-wise Average Rating  
