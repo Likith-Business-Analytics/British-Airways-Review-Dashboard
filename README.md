@@ -31,3 +31,27 @@ The dashboard helps identify:
 - **Dynamic Filters** for slicing insights quickly  
 
 ---
+
+## Dataset & Technology Used
+**Dataset**
+- <a href = "https://github.com/Likith-Business-Analytics/British-Airways-Review-Dashboard/blob/main/ba_reviews.csv">< British_Airways a/> – Contains British Airways customer reviews with fields such as:
+
+Review Date
+
+Country
+
+Traveller Type & Seat Type
+
+Aircraft Type
+
+Ratings: Overall, Cabin Staff Service, Entertainment, Food & Beverages, Ground Service, Seat Comfort, Value for Money
+
+Countries.csv – Used for mapping country names to geographical coordinates for visualization.
+
+Total dataset spans: 2016–2024.
+
+Technology Used
+
+Tableau Desktop – Dashboard creation and visual analytics
+
+Excel/CSV – Data storage and preprocessing
