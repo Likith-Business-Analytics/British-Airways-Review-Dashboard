@@ -71,7 +71,7 @@ These KPIs provide a high-level overview of British Airways' performance across 
 -  **Ratings by Month** show fluctuations across years, with noticeable dips during global travel disruptions (2020–2021).
 -  **Country-wise Ratings** vary significantly; regions like the UK, USA, and parts of Europe show higher satisfaction compared to others.
 -  **Aircraft-specific analysis** shows:
-  * *Boeing 747-400 and 787* receive the highest ratings.
+  * Boeing 747-400 and 787 receive the highest ratings.
   * *A319, A321,* and older aircraft models get relatively lower scores.
   * Aircraft with the most reviews include **Boeing 777** and **A320 series**.
 - **Traveller Type Comparison** reveals differing perceptions:
