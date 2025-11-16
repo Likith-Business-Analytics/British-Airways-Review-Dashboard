@@ -64,24 +64,23 @@ These KPIs provide a high-level overview of British Airways' performance across 
 <img width="1882" height="881" alt="image" src="https://github.com/user-attachments/assets/648987df-9925-4de2-b0bc-c3e4c014113a" />
 
 ## Key Insights
-
-* **Overall Rating** remains around **4.0+**, indicating moderate customer satisfaction.
-* **Cabin Staff Service** shows strong performance with an average above **3.0**, while **Entertainment** scores lowest (~1.4), suggesting a key improvement area.
-* **Food & Beverages** and **Ground Service** score moderately (~2.4–3.0).
-* **Seat Comfort** and **Value for Money** show room for improvement (below 3.0).
-* **Ratings by Month** show fluctuations across years, with noticeable dips during global travel disruptions (2020–2021).
-* **Country-wise Ratings** vary significantly; regions like the UK, USA, and parts of Europe show higher satisfaction compared to others.
-* **Aircraft-specific analysis** shows:
+- **Overall Rating** remains around **4.0+**, indicating moderate customer satisfaction.
+-  **Cabin Staff Service** shows strong performance with an average above **3.0**, while **Entertainment** scores lowest (~1.4), suggesting a key improvement area.
+-  **Food & Beverages** and **Ground Service** score moderately (~2.4–3.0).
+-  **Seat Comfort** and **Value for Money** show room for improvement (below 3.0).
+-  **Ratings by Month** show fluctuations across years, with noticeable dips during global travel disruptions (2020–2021).
+-  **Country-wise Ratings** vary significantly; regions like the UK, USA, and parts of Europe show higher satisfaction compared to others.
+-  **Aircraft-specific analysis** shows:
   * *Boeing 747-400 and 787* receive the highest ratings.
   * *A319, A321,* and older aircraft models get relatively lower scores.
   * Aircraft with the most reviews include **Boeing 777** and **A320 series**.
-* **Traveller Type Comparison** reveals differing perceptions:
+- **Traveller Type Comparison** reveals differing perceptions:
   * Business travellers generally rate higher,
   * Economy and family travellers show more mixed feedback.
 
----
 
-# **3) Conclusion**
+
+## Conclusion
 
 This Tableau dashboard provides a comprehensive view of British Airways’ customer satisfaction trends. By analyzing ratings across time, geography, aircraft type, and traveller categories, the dashboard highlights strong areas—such as cabin staff service—and identifies improvement opportunities in entertainment, seat comfort, and value for money. The insights enable airlines, analysts, and stakeholders to understand customer expectations and prioritize service enhancements.
 
